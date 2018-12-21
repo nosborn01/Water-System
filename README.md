@@ -24,5 +24,3 @@ First, let's list the parts that will be needed for the project:
 You could use a number of moisture sensors for your circuit, but I went with one from SparkFun (Mfr# SEN-13322). Most other parts can be selected from any manufacturer. 
 
 I am still working on the best way to represent the wiring diagram that I can construct easily and submit within the project without it being hand drawn. 
-
-- Nate Osborn
