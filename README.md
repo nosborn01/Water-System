@@ -33,3 +33,6 @@ You could use a number of moisture sensors for your circuit, but I went with one
 
 I have also provided a top over view of the circuit below, as some are not always the best at reading wiring diagrams.
 
+![screen shot 2018-12-21 at 5 41 55 pm](https://user-images.githubusercontent.com/34990208/50369405-f43e8400-0549-11e9-8543-1a6bfca557bd.png)
+
+I have a long was to go but I really learned a lot and enjoyed this circuit. I look forward to any feedback you can provide. Thanks. 
