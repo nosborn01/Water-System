@@ -1,3 +1,5 @@
+### Auto-Watering System
+
 This is my first Arduino project, so it is very basic and nothing fancy. If you have any suggestions let me know so I can make changes. I do not have very much experience with Arduino or coding in general, so I am always looking for feedback. 
 
 First, there is a serial monitor test code file. This allows you to put the circuit together and test the individual components to ensure that everything is wired together correctly. 
