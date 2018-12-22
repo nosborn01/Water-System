@@ -7,7 +7,7 @@ First, there is a serial monitor test code file. This allows you to put the circ
 The second file, this is the complete code and is simply in design. I have tried to make it user friendly and since it was my first project, I do not take credit for everything as I got lots of help in other Arduino forums with the coding. 
 
 
-### Parts:
+# Parts:
 
 First, let's list the parts that will be needed for the project:
   - Arduino Uno
@@ -27,7 +27,7 @@ First, let's list the parts that will be needed for the project:
 
 You could use a number of moisture sensors for your circuit, but I went with one from SparkFun (Mfr# SEN-13322). Most other parts can be selected from any manufacturer. 
 
-## Wiring Schematic
+# Wiring Schematic
 
 
 
