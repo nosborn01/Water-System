@@ -29,6 +29,6 @@ You could use a number of moisture sensors for your circuit, but I went with one
 
 ### Wiring Schematic
 
-
+![screen shot 2018-12-21 at 5 40 43 pm](https://user-images.githubusercontent.com/34990208/50369399-de30c380-0549-11e9-8475-bc8fb541e3d6.png)
 
 I am still working on the best way to represent the wiring diagram that I can construct easily and submit within the project without it being hand drawn. 
